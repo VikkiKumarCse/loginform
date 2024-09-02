@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+nav a{
+    text-decoration: none;
+    list-style: none;
+
+}
+
+nav li{
+    list-style: none;
+}
+
+nav{
+    background-color: black;
+}
+
+nav .logo h1{
+    color: white;
+}
+
+nav ul{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 100px;
+    justify-content: center;
+    gap: 40px;
+
+}
+
+
+
+
+
